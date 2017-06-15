@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4E2UV7B</Machine>
+    <WindowsUser>Baran Saeed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4895986d-a657-4234-8f4f-56bb0379feca</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Baran Saeed</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F3E9121FCB134D28BE3A5221E020333FF426CD067AF6A3FEEF4C817414FFF8F9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4895986d-a657-4234-8f4f-56bb0379feca_1.0.0.0_neutral__2p5zs8drjbjwp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4895986d-a657-4234-8f4f-56bb0379feca_2p5zs8drjbjwp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4895986d-a657-4234-8f4f-56bb0379feca</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Baran Saeed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-12T20:52:09.614</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\GoogleMapInWindowsApp.exe">
+      <PackagePath>GoogleMapInWindowsApp.exe</PackagePath>
+      <Modified>2017-04-12T20:52:07.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-04-15T19:28:39.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\GoogleMapInWindowsApp.xr.xml">
+      <PackagePath>GoogleMapInWindowsApp.xr.xml</PackagePath>
+      <Modified>2017-04-12T20:52:06.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-12T20:52:07.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-12T20:52:07.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Baran Saeed\documents\visual studio 2015\Projects\GoogleMapInWindowsApp\GoogleMapInWindowsApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-12T20:52:08.451</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
